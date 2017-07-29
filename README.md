@@ -1,2 +1,2 @@
 # bag
-![图片](https://github.com/qqsgtree/bag/images/static.png)
+![图片](https://github.com/qqsgtree/bag/blob/master/images/static.png)
